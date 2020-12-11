@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20sp"
+        android:text="hello are you there my work for today morning you know as to"
+        android:textSize="24sp"
+        android:layout_weight="1"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/txtview"/>
+
+</RelativeLayout>
+

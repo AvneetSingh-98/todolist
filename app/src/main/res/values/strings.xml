@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDOLIST2</string>
+    <string name="delete">delete</string>
+    <string name="addtext">R.id.addtext</string>
+    <string name="ju">jy</string>
+    <string name="ii">ii</string>
+</resources>
